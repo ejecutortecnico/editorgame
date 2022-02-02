@@ -5,9 +5,9 @@ $("document").ready(function() {
     var frameworks = {
         //Phaser
         "Phaser 3.55": "//cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser.js",
-		// jQuery
-		"jQuery 3.6":"//code.jquery.com/jquery-3.6.0.js",
-        "jQuery Compat (edge)": "//code.jquery.com/jquery-git.js",
+		//jQuery
+        "jQuery 3.6": "//code.jquery.com/jquery-3.6.0.js",
+		"jQuery Compat (edge)": "//code.jquery.com/jquery-git.js",
         "jQuery (edge)": "//code.jquery.com/jquery-compat-git.js",
         "jQuery 2.1.0": "//code.jquery.com/jquery-2.1.0.js",
         "jQuery 2.0.2": "//code.jquery.com/jquery-2.0.2.js",
