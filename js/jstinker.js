@@ -4,7 +4,7 @@ $("document").ready(function() {
     // List of Frameworks & Extensions
     var frameworks = {
         //Phaser
-        "Phaser 3.55": "http://cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser.js",
+        "Phaser 3.55": "//cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser.js",
 		// jQuery
         "jQuery Compat (edge)": "http://code.jquery.com/jquery-git.js",
         "jQuery (edge)": "http://code.jquery.com/jquery-compat-git.js",
