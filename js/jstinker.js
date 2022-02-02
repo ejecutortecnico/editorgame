@@ -5,18 +5,25 @@ $("document").ready(function() {
     var frameworks = {
         //Phaser
         "Phaser 3.55": "//cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser.js",
+		// AngularJS
+		"AngularJS 1.8.2": "//ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js",
+        "AngularJS 1.8.1": "//ajax.googleapis.com/ajax/libs/angularjs/1.8.1/angular.min.js",
+		"AngularJS 1.2.1": "//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.1/angular.js",
+        "AngularJS 1.1.1": "//cdnjs.cloudflare.com/ajax/libs/angular.js/1.1.1/angular.min.js",
+		// Three.js
+        "Three.js r54": "//cdnjs.cloudflare.com/ajax/libs/three.js/r54/three.min.js",
 		//jQuery
         "jQuery 3.6": "//code.jquery.com/jquery-3.6.0.js",
-		"jQuery Compat (edge)": "//code.jquery.com/jquery-git.js",
-        "jQuery (edge)": "//code.jquery.com/jquery-compat-git.js",
-        "jQuery 2.1.0": "//code.jquery.com/jquery-2.1.0.js",
+		"jQuery 2.1.0": "//code.jquery.com/jquery-2.1.0.js",
         "jQuery 2.0.2": "//code.jquery.com/jquery-2.0.2.js",
         "jQuery 1.10.1": "//code.jquery.com/jquery-1.10.1.js",
         "jQuery 1.9.1": "//code.jquery.com/jquery-1.9.1.js",
         "jQuery 1.8.3": "//code.jquery.com/jquery-1.8.3.js",
         "jQuery 1.7.2": "//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
         "jQuery 1.6.4": "//code.jquery.com/jquery-1.6.4.js",
-        // Prototype
+        "jQuery Compat (edge)": "//code.jquery.com/jquery-git.js",
+        "jQuery (edge)": "//code.jquery.com/jquery-compat-git.js",
+		// Prototype
         "Prototype 1.7.1": "//ajax.googleapis.com/ajax/libs/prototype/1.7.1/prototype.js",
         "Prototype 1.6.1.0": "//ajax.googleapis.com/ajax/libs/prototype/1.6.1.0/prototype.js",
         // YUI
@@ -55,8 +62,6 @@ $("document").ready(function() {
         // RightJS
         "RightJS 2.3.1": "//cdn.rightjs.org/right-2.3.1.js",
         "RightJS 2.1.1": "//fiddle.jshell.net/js/lib/right.js",
-        // Three.js
-        "Three.js r54": "//cdnjs.cloudflare.com/ajax/libs/three.js/r54/three.min.js",
         // Zepto
         "Zepto 1.0rc1": "//cdnjs.cloudflare.com/ajax/libs/zepto/1.0rc1/zepto.min.js",
         // Enyo
@@ -72,9 +77,6 @@ $("document").ready(function() {
         "Knockout.js 2.0.0": "//cdnjs.cloudflare.com/ajax/libs/knockout/2.0.0/knockout-min.js",
         // The X Toolkit
         "The X Toolkit edge": "//get.goxtk.com/xtk_edge.js",
-        // AngularJS
-        "AngularJS 1.2.1": "//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.1/angular.js",
-        "AngularJS 1.1.1": "//cdnjs.cloudflare.com/ajax/libs/angular.js/1.1.1/angular.min.js",
         // Ember
         "Ember 1.3.1": "//http//builds.emberjs.com/tags/v1.3.1/ember.prod.js",
         // Underscore
