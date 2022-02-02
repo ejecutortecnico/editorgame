@@ -3,7 +3,9 @@ $("document").ready(function() {
     
     // List of Frameworks & Extensions
     var frameworks = {
-        // jQuery
+        //Phaser
+        "Phaser 3.55": "http://cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser.js",
+		// jQuery
         "jQuery Compat (edge)": "http://code.jquery.com/jquery-git.js",
         "jQuery (edge)": "http://code.jquery.com/jquery-compat-git.js",
         "jQuery 2.1.0": "http://code.jquery.com/jquery-2.1.0.js",
